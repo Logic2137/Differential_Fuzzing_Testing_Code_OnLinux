@@ -1,0 +1,7 @@
+
+
+package optim;
+
+
+class AType {
+}

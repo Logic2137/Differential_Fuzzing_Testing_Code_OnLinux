@@ -1,0 +1,5 @@
+
+
+interface Command {
+	void executeSelf();
+}

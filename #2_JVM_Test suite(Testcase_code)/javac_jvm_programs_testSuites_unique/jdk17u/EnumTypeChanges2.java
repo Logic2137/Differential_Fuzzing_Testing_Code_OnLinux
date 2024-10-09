@@ -1,0 +1,4 @@
+enum EnumTypeChangesEnum {
+
+    A, C
+}

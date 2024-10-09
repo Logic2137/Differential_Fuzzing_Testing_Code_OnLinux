@@ -1,0 +1,245 @@
+运行.class文件完成序号: 1		类名: AddExactICondTest
+
+
+运行.class文件完成序号: 2		类名: ArrayNewInstanceOfVoid
+
+
+运行.class文件完成序号: 3		类名: Basic
+正常输出: 
+line1: 	Test FAILS
+错误输出: 
+line1: 	Test2 failed
+line2: 	Test3 failed
+line3: 	Test4 failed
+line4: 	Test5 failed
+line5: 	Test6 failed
+line6: 	Test7 failed
+line7: 	Test8 failed
+line8: 	Test9 failed
+line9: 	Exception in thread "main" java.lang.Error: Test failed
+line10: 		at Basic.main(Basic.java:182)
+
+
+运行.class文件完成序号: 4		类名: BitTests
+正常输出: 
+line1: 	PASSED
+
+
+运行.class文件完成序号: 5		类名: BMI1
+
+
+运行.class文件完成序号: 6		类名: C1ObjectSpillInLogicOp
+
+
+运行.class文件完成序号: 7		类名: CatchInlineExceptions
+正常输出: 
+line1: 	TEST PASSED
+
+
+运行.class文件完成序号: 8		类名: CheckLongArgs
+错误输出: 
+line1: 	Exception in thread "main" java.lang.UnsatisfiedLinkError: no CNCheckLongArgs in java.library.path
+line2: 		at java.lang.ClassLoader.loadLibrary(ClassLoader.java:1863)
+line3: 		at java.lang.Runtime.loadLibrary0(Runtime.java:871)
+line4: 		at java.lang.System.loadLibrary(System.java:1122)
+line5: 		at CheckLongArgs.<clinit>(CheckLongArgs.java:4)
+
+
+运行.class文件完成序号: 9		类名: CompareTest
+
+
+运行.class文件完成序号: 10		类名: ConcurrentClassLoadingTest
+正常输出: 
+line1: 	Threads: 8
+line2: 	Seed: -1511382000442177246
+line3: 	Thread #0:
+line4: 		java.lang.invoke.MethodType
+line5: 		java.lang.invoke.LambdaMetafactory
+line6: 	Thread #1:
+line7: 		java.lang.invoke.MethodHandles
+line8: 		java.lang.invoke.MethodHandleProxies
+line9: 	Thread #2:
+line10: 		java.lang.invoke.WrongMethodTypeException
+line11: 		java.lang.invoke.MethodHandleInfo
+line12: 	Thread #3:
+line13: 		java.lang.invoke.SerializedLambda
+line14: 		java.lang.invoke.CallSite
+line15: 	Thread #4:
+line16: 		java.lang.invoke.MethodHandle
+line17: 		java.lang.invoke.MutableCallSite
+line18: 	Thread #5:
+line19: 		java.lang.invoke.SwitchPoint
+line20: 		java.lang.invoke.ConstantCallSite
+line21: 	Thread #6:
+line22: 		java.lang.invoke.VolatileCallSite
+line23: 		java.lang.invoke.LambdaConversionException
+line24: 	Thread #7:
+
+
+运行.class文件完成序号: 11		类名: ConstFPVectorization
+错误输出: 
+line1: 	Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 0
+line2: 		at ConstFPVectorization.main(ConstFPVectorization.java:21)
+
+
+运行.class文件完成序号: 12		类名: CountedLoopProblem
+
+
+运行.class文件完成序号: 13		类名: CRCTest
+正常输出: 
+line1: 	finished huge crc, crc1 = 2923299010, crc2 = 2923299010, crc3 = 2923299010, crc4 = 2923299010
+line2: 	finished small survey crc, crc1 = 275273953, crc2 = 275273953, crc3 = 275273953, crc4 = 275273953
+
+
+运行.class文件完成序号: 14		类名: CreatesInterfaceDotEqualsCallInfo
+错误输出: 
+line1: 	Exception in thread "main" java.io.IOException: .\createsInterfaceDotEqualsCallInfo.js is not a file
+line2: 		at jdk.nashorn.internal.runtime.Source.readFully(Source.java:769)
+line3: 		at jdk.nashorn.internal.runtime.Source$FileData.load(Source.java:377)
+line4: 		at jdk.nashorn.internal.runtime.Source.sourceFor(Source.java:114)
+line5: 		at jdk.nashorn.internal.runtime.Source.sourceFor(Source.java:499)
+line6: 		at jdk.nashorn.internal.runtime.Source.sourceFor(Source.java:483)
+line7: 		at jdk.nashorn.tools.Shell.runScripts(Shell.java:394)
+line8: 		at jdk.nashorn.tools.Shell.run(Shell.java:179)
+line9: 		at jdk.nashorn.tools.Shell.main(Shell.java:143)
+line10: 		at CreatesInterfaceDotEqualsCallInfo.main(CreatesInterfaceDotEqualsCallInfo.java:5)
+
+
+运行.class文件完成序号: 15		类名: DefaultAndConcreteMethodsCHA
+错误输出: 
+line1: 	Exception in thread "main" java.lang.NoSuchMethodError: A: method <init>()V not found
+line2: 		at C.<init>(DefaultAndConcreteMethodsCHA.java:11)
+line3: 		at DefaultAndConcreteMethodsCHA.main(DefaultAndConcreteMethodsCHA.java:29)
+
+
+运行.class文件完成序号: 16		类名: DefaultValue
+正常输出: 
+line1: 	Test FAILS
+错误输出: 
+line1: 	R1 failed
+line2: 	R2 failed
+line3: 	R3 failed
+line4: 	Exception in thread "main" java.lang.Error: Test failed
+line5: 		at DefaultValue.main(DefaultValue.java:135)
+
+
+运行.class文件完成序号: 17		类名: Runner2
+错误输出: 
+line1: 	错误: 找不到或无法加载主类 Runner2
+
+
+运行.class文件完成序号: 18		类名: DisableResizePLAB
+
+
+运行.class文件完成序号: 19		类名: DoubleArithTests
+
+
+运行.class文件完成序号: 20		类名: DoubleCmpTests
+
+
+运行.class文件完成序号: 21		类名: ExecuteInternalVMTests
+
+
+运行.class文件完成序号: 22		类名: FieldMonitor
+错误输出: 
+line1: 	Error: A JNI error has occurred, please check your installation and try again
+line2: 	Exception in thread "main" java.lang.NoClassDefFoundError: com/sun/jdi/connect/IllegalConnectorArgumentsException
+line3: 		at java.lang.Class.getDeclaredMethods0(Native Method)
+line4: 		at java.lang.Class.privateGetDeclaredMethods(Class.java:2701)
+line5: 		at java.lang.Class.privateGetMethodRecursive(Class.java:3048)
+line6: 		at java.lang.Class.getMethod0(Class.java:3018)
+line7: 		at java.lang.Class.getMethod(Class.java:1784)
+line8: 		at sun.launcher.LauncherHelper.validateMainClass(LauncherHelper.java:650)
+line9: 		at sun.launcher.LauncherHelper.checkAndLoadMain(LauncherHelper.java:632)
+line10: 	Caused by: java.lang.ClassNotFoundException: com.sun.jdi.connect.IllegalConnectorArgumentsException
+line11: 		at java.net.URLClassLoader.findClass(URLClassLoader.java:387)
+line12: 		at java.lang.ClassLoader.loadClass(ClassLoader.java:418)
+line13: 		at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:355)
+line14: 		at java.lang.ClassLoader.loadClass(ClassLoader.java:351)
+line15: 		... 7 more
+
+
+运行.class文件完成序号: 23		类名: FloatArithTests
+
+
+运行.class文件完成序号: 24		类名: FloatCmpTests
+
+
+运行.class文件完成序号: 25		类名: FloatingPointFoldingTest
+
+
+运行.class文件完成序号: 26		类名: G1CrashTest
+错误输出: 
+line1: 	Exception in thread "main" java.lang.NullPointerException
+line2: 		at G1CrashTest.main(G1CrashTest.java:6)
+
+
+运行.class文件完成序号: 27		类名: GetUnsafeObjectG1PreBarrier
+
+
+运行.class文件完成序号: 28		类名: GVNTest
+
+
+运行.class文件完成序号: 29		类名: HasNonStatic
+
+
+运行.class文件完成序号: 30		类名: Inheritance1
+正常输出: 
+line1: 	Test FAILS
+错误输出: 
+line1: 	A2_R1 failed
+line2: 	A3_R1 failed
+line3: 	A1_R2 failed
+line4: 	A2_R2 failed
+line5: 	A3_R2 failed
+line6: 	A1_R3 failed
+line7: 	A2_R3 failed
+line8: 	A3_R3 failed
+line9: 	Exception in thread "main" java.lang.Error: Test failed
+line10: 		at Inheritance1.main(Inheritance1.java:155)
+
+
+运行.class文件完成序号: 31		类名: InlineDefaultMethod
+错误输出: 
+line1: 	PASSED
+
+
+运行.class文件完成序号: 32		类名: InlineDefaultMethod1
+错误输出: 
+line1: 	Error: A JNI error has occurred, please check your installation and try again
+line2: 	Exception in thread "main" java.lang.VerifyError: Bad type on operand stack
+line3: 	Exception Details:
+line4: 	  Location:
+line5: 	    InlineDefaultMethod1.main([Ljava/lang/String;)V @7: invokestatic
+line6: 	  Reason:
+line7: 	    Type 'B' (current frame, stack[0]) is not assignable to 'A'
+line8: 	  Current Frame:
+line9: 	    bci: @7
+line10: 	    flags: { }
+line11: 	    locals: { '[Ljava/lang/String;' }
+line12: 	    stack: { 'B' }
+line13: 	  Bytecode:
+line14: 	    0x0000000: bb00 0b59 b700 0cb8 000d b200 0e12 0fb6
+line15: 	    0x0000010: 0010 b1                                
+line16: 	
+line17: 		at java.lang.Class.getDeclaredMethods0(Native Method)
+line18: 		at java.lang.Class.privateGetDeclaredMethods(Class.java:2701)
+line19: 		at java.lang.Class.privateGetMethodRecursive(Class.java:3048)
+line20: 		at java.lang.Class.getMethod0(Class.java:3018)
+line21: 		at java.lang.Class.getMethod(Class.java:1784)
+line22: 		at sun.launcher.LauncherHelper.validateMainClass(LauncherHelper.java:650)
+line23: 		at sun.launcher.LauncherHelper.checkAndLoadMain(LauncherHelper.java:632)
+
+
+运行.class文件完成序号: 33		类名: IntArithTests
+
+
+运行.class文件完成序号: 34		类名: IntCmpTests
+
+
+运行.class文件完成序号: 35		类名: InterruptedTest
+正常输出: 
+line1: 	Main thread: starts a worker thread...
+line2: 	Main thread: waits at most 5s for the worker thread to die...
+line3: 	Worker thread: running...
+line4

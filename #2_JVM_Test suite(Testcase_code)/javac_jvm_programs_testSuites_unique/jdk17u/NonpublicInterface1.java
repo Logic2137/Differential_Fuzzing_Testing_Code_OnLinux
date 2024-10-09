@@ -1,0 +1,2 @@
+interface NonpublicInterface1 {
+}

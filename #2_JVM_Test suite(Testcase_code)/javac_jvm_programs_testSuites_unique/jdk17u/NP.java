@@ -1,0 +1,5 @@
+
+package q;
+
+interface NP {
+}

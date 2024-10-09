@@ -1,0 +1,2 @@
+public class MissingClass2 {
+}

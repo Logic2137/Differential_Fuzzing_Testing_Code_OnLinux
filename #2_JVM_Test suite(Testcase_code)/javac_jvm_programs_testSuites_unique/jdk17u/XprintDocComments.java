@@ -1,0 +1,4 @@
+class XPrintDocComments {
+
+    int i;
+}

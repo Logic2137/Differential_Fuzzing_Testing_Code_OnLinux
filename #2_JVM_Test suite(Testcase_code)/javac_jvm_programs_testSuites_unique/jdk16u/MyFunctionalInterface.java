@@ -1,0 +1,5 @@
+
+
+interface MyFunctionalInterface {
+    String invokeMethodReference();
+}

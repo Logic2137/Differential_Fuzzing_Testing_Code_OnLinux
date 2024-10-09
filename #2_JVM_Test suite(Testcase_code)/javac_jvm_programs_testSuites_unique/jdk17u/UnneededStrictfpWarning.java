@@ -1,0 +1,2 @@
+strictfp class UnneededStrictfpWarning {
+}

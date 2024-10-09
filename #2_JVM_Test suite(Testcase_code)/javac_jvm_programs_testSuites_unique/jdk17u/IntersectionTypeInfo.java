@@ -1,0 +1,4 @@
+@interface IntersectionTypeInfo {
+
+    String[] value();
+}

@@ -1,0 +1,5 @@
+class LambdaStat {
+
+    Runnable r = () -> {
+    };
+}
