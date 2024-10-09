@@ -1,0 +1,2052 @@
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestLongDoubleVect.java
+编译文件名: TestLongDoubleVect.java
+java编译完成数: 1
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6559156.java
+编译文件名: Test6559156.java
+java编译完成数: 2
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestStackBangMonitorOwned.java
+编译文件名: TestStackBangMonitorOwned.java
+java编译完成数: 3
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6992759.java
+编译文件名: Test6992759.java
+java编译完成数: 4
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestIntAtomicOrdered.java
+编译文件名: TestIntAtomicOrdered.java
+java编译完成数: 5
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestShortVect.java
+编译文件名: TestShortVect.java
+java编译完成数: 6
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestSquareToLen.java
+编译文件名: TestSquareToLen.java
+java编译完成数: 7
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestIntVect.java
+编译文件名: TestIntVect.java
+java编译完成数: 8
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Agent.java
+编译文件名: Agent.java
+java编译完成数: 9
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6756768.java
+编译文件名: Test6756768.java
+java编译完成数: 10
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/DefaultValue.java
+编译文件名: DefaultValue.java
+java编译完成数: 11
+编译错误输出: 
+line1: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/DefaultValue.java:15: warning: Unsafe is internal proprietary API and may be removed in a future release
+line2: 	import sun.misc.Unsafe;
+line3: 	               ^
+line4: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/DefaultValue.java:16: warning: Contended is internal proprietary API and may be removed in a future release
+line5: 	import sun.misc.Contended;
+line6: 	               ^
+line7: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/DefaultValue.java:20: warning: Unsafe is internal proprietary API and may be removed in a future release
+line8: 	    private static final Unsafe U;
+line9: 	                         ^
+line10: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/DefaultValue.java:28: warning: Unsafe is internal proprietary API and may be removed in a future release
+line11: 	            Field unsafe = Unsafe.class.getDeclaredField("theUnsafe");
+line12: 	                           ^
+line13: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/DefaultValue.java:30: warning: Unsafe is internal proprietary API and may be removed in a future release
+line14: 	            U = (Unsafe) unsafe.get(null);
+line15: 	                 ^
+line16: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/DefaultValue.java:141: warning: Contended is internal proprietary API and may be removed in a future release
+line17: 	        @Contended
+line18: 	         ^
+line19: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/DefaultValue.java:144: warning: Contended is internal proprietary API and may be removed in a future release
+line20: 	        @Contended
+line21: 	         ^
+line22: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/DefaultValue.java:150: warning: Contended is internal proprietary API and may be removed in a future release
+line23: 	        @Contended("")
+line24: 	         ^
+line25: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/DefaultValue.java:153: warning: Contended is internal proprietary API and may be removed in a future release
+line26: 	        @Contended("")
+line27: 	         ^
+line28: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/DefaultValue.java:159: warning: Contended is internal proprietary API and may be removed in a future release
+line29: 	        @Contended()
+line30: 	         ^
+line31: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/DefaultValue.java:162: warning: Contended is internal proprietary API and may be removed in a future release
+line32: 	        @Contended()
+line33: 	         ^
+line34: 	11 warnings
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestAESBase.java
+编译文件名: TestAESBase.java
+java编译完成数: 12
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/c2.java
+编译文件名: c2.java
+java编译完成数: 13
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6753639.java
+编译文件名: Test6753639.java
+java编译完成数: 14
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test8005033.java
+编译文件名: Test8005033.java
+java编译完成数: 15
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestMeetTopArrayExactConstantArray.java
+编译文件名: TestMeetTopArrayExactConstantArray.java
+java编译完成数: 16
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/ExitCode.java
+编译文件名: ExitCode.java
+java编译完成数: 17
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6186134.java
+编译文件名: Test6186134.java
+java编译完成数: 18
+编译错误输出: 
+line1: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6186134.java:21: warning: [unchecked] unchecked call to add(E) as a member of the raw type ArrayList
+line2: 	            res.add(new Object());
+line3: 	                   ^
+line4: 	  where E is a type-variable:
+line5: 	    E extends Object declared in class ArrayList
+line6: 	1 warning
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestProfileReturnTypePrinting.java
+编译文件名: TestProfileReturnTypePrinting.java
+java编译完成数: 19
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestPrintRelocations.java
+编译文件名: TestPrintRelocations.java
+java编译完成数: 20
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Object.java
+编译文件名: Object.java
+java编译完成数: 21
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestUnsafePutAddressNullObjMustNotEscape.java
+编译文件名: TestUnsafePutAddressNullObjMustNotEscape.java
+java编译完成数: 22
+编译错误输出: 
+line1: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestUnsafePutAddressNullObjMustNotEscape.java:2: warning: Unsafe is internal proprietary API and may be removed in a future release
+line2: 	import sun.misc.Unsafe;
+line3: 	               ^
+line4: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestUnsafePutAddressNullObjMustNotEscape.java:6: warning: Unsafe is internal proprietary API and may be removed in a future release
+line5: 	    public static Unsafe usafe;
+line6: 	                  ^
+line7: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestUnsafePutAddressNullObjMustNotEscape.java:49: warning: Unsafe is internal proprietary API and may be removed in a future release
+line8: 	        Field field = sun.misc.Unsafe.class.getDeclaredField("theUnsafe");
+line9: 	                              ^
+line10: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestUnsafePutAddressNullObjMustNotEscape.java:51: warning: Unsafe is internal proprietary API and may be removed in a future release
+line11: 	        usafe = (sun.misc.Unsafe) field.get(null);
+line12: 	                         ^
+line13: 	4 warnings
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test7048332.java
+编译文件名: Test7048332.java
+java编译完成数: 23
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestLongFloatVect.java
+编译文件名: TestLongFloatVect.java
+java编译完成数: 24
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6968348.java
+编译文件名: Test6968348.java
+java编译完成数: 25
+编译错误输出: 
+line1: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6968348.java:1: warning: Unsafe is internal proprietary API and may be removed in a future release
+line2: 	import sun.misc.Unsafe;
+line3: 	               ^
+line4: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6968348.java:6: warning: Unsafe is internal proprietary API and may be removed in a future release
+line5: 	    static Unsafe unsafe;
+line6: 	           ^
+line7: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6968348.java:16: warning: Unsafe is internal proprietary API and may be removed in a future release
+line8: 	        unsafe = (Unsafe) f.get(c);
+line9: 	                  ^
+line10: 	3 warnings
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/InterruptedTest.java
+编译文件名: InterruptedTest.java
+java编译完成数: 26
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/IsInstanceTest.java
+编译文件名: IsInstanceTest.java
+java编译完成数: 27
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestLongBoxing.java
+编译文件名: TestLongBoxing.java
+java编译完成数: 28
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test7009359.java
+编译文件名: Test7009359.java
+java编译完成数: 29
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestIntDoubleVect.java
+编译文件名: TestIntDoubleVect.java
+java编译完成数: 30
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestRangeCheckSmearingLoopOpts.java
+编译文件名: TestRangeCheckSmearingLoopOpts.java
+java编译完成数: 31
+编译错误输出: 
+line1: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestRangeCheckSmearingLoopOpts.java:28: error: unreachable statement
+line2: 	        return returnNum;
+line3: 	        ^
+line4: 	1 error
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6579789.java
+编译文件名: Test6579789.java
+java编译完成数: 32
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestMeetExactConstantArrays.java
+编译文件名: TestMeetExactConstantArrays.java
+java编译完成数: 33
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestHashCode.java
+编译文件名: TestHashCode.java
+java编译完成数: 34
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6756768_2.java
+编译文件名: Test6756768_2.java
+java编译完成数: 35
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test7179138_2.java
+编译文件名: Test7179138_2.java
+java编译完成数: 36
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/MulExactICondTest.java
+编译文件名: MulExactICondTest.java
+java编译完成数: 37
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestProfileConflictClassUnloading.java
+编译文件名: TestProfileConflictClassUnloading.java
+java编译完成数: 38
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestDeoptInt6769124.java
+编译文件名: TestDeoptInt6769124.java
+java编译完成数: 39
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestByteLongVect.java
+编译文件名: TestByteLongVect.java
+java编译完成数: 40
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6863155.java
+编译文件名: Test6863155.java
+java编译完成数: 41
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/BadPredicateAfterPartialPeel.java
+编译文件名: BadPredicateAfterPartialPeel.java
+java编译完成数: 42
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test8000805.java
+编译文件名: Test8000805.java
+java编译完成数: 43
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6805724.java
+编译文件名: Test6805724.java
+java编译完成数: 44
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestMultiplyLongHiZero.java
+编译文件名: TestMultiplyLongHiZero.java
+java编译完成数: 45
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Asserts.java
+编译文件名: Asserts.java
+java编译完成数: 46
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test7174363.java
+编译文件名: Test7174363.java
+java编译完成数: 47
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/ProfilingType.java
+编译文件名: ProfilingType.java
+java编译完成数: 48
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/LargeFrame.java
+编译文件名: LargeFrame.java
+java编译完成数: 49
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test8015436.java
+编译文件名: Test8015436.java
+java编译完成数: 50
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test8011901.java
+编译文件名: Test8011901.java
+java编译完成数: 51
+编译错误输出: 
+line1: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test8011901.java:8: warning: Unsafe is internal proprietary API and may be removed in a future release
+line2: 	    private static final sun.misc.Unsafe U;
+line3: 	                                 ^
+line4: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test8011901.java:14: warning: Unsafe is internal proprietary API and may be removed in a future release
+line5: 	            Field unsafe = sun.misc.Unsafe.class.getDeclaredField("theUnsafe");
+line6: 	                                   ^
+line7: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test8011901.java:16: warning: Unsafe is internal proprietary API and may be removed in a future release
+line8: 	            U = (sun.misc.Unsafe) unsafe.get(null);
+line9: 	                         ^
+line10: 	3 warnings
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test7103261.java
+编译文件名: Test7103261.java
+java编译完成数: 52
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Empty.java
+编译文件名: Empty.java
+java编译完成数: 53
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestEABadMergeMem.java
+编译文件名: TestEABadMergeMem.java
+java编译完成数: 54
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/SplitThruPhiTest.java
+编译文件名: SplitThruPhiTest.java
+java编译完成数: 55
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestByteIntVect.java
+编译文件名: TestByteIntVect.java
+java编译完成数: 56
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/IntRotateWithImmediate.java
+编译文件名: IntRotateWithImmediate.java
+java编译完成数: 57
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Basic.java
+编译文件名: Basic.java
+java编译完成数: 58
+编译错误输出: 
+line1: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Basic.java:15: warning: Unsafe is internal proprietary API and may be removed in a future release
+line2: 	import sun.misc.Unsafe;
+line3: 	               ^
+line4: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Basic.java:16: warning: Contended is internal proprietary API and may be removed in a future release
+line5: 	import sun.misc.Contended;
+line6: 	               ^
+line7: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Basic.java:20: warning: Unsafe is internal proprietary API and may be removed in a future release
+line8: 	    private static final Unsafe U;
+line9: 	                         ^
+line10: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Basic.java:28: warning: Unsafe is internal proprietary API and may be removed in a future release
+line11: 	            Field unsafe = Unsafe.class.getDeclaredField("theUnsafe");
+line12: 	                           ^
+line13: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Basic.java:30: warning: Unsafe is internal proprietary API and may be removed in a future release
+line14: 	            U = (Unsafe) unsafe.get(null);
+line15: 	                 ^
+line16: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Basic.java:195: warning: Contended is internal proprietary API and may be removed in a future release
+line17: 	        @Contended
+line18: 	         ^
+line19: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Basic.java:203: warning: Contended is internal proprietary API and may be removed in a future release
+line20: 	        @Contended
+line21: 	         ^
+line22: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Basic.java:206: warning: Contended is internal proprietary API and may be removed in a future release
+line23: 	        @Contended
+line24: 	         ^
+line25: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Basic.java:212: warning: Contended is internal proprietary API and may be removed in a future release
+line26: 	        @Contended("sameGroup")
+line27: 	         ^
+line28: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Basic.java:215: warning: Contended is internal proprietary API and may be removed in a future release
+line29: 	        @Contended("sameGroup")
+line30: 	         ^
+line31: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Basic.java:221: warning: Contended is internal proprietary API and may be removed in a future release
+line32: 	        @Contended("diffGroup1")
+line33: 	         ^
+line34: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Basic.java:224: warning: Contended is internal proprietary API and may be removed in a future release
+line35: 	        @Contended("diffGroup2")
+line36: 	         ^
+line37: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Basic.java:230: warning: Contended is internal proprietary API and may be removed in a future release
+line38: 	        @Contended
+line39: 	         ^
+line40: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Basic.java:233: warning: Contended is internal proprietary API and may be removed in a future release
+line41: 	        @Contended("diffGroup2")
+line42: 	         ^
+line43: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Basic.java:237: warning: Contended is internal proprietary API and may be removed in a future release
+line44: 	    @Contended
+line45: 	     ^
+line46: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Basic.java:245: warning: Contended is internal proprietary API and may be removed in a future release
+line47: 	    @Contended
+line48: 	     ^
+line49: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Basic.java:248: warning: Contended is internal proprietary API and may be removed in a future release
+line50: 	        @Contended
+line51: 	         ^
+line52: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Basic.java:254: warning: Contended is internal proprietary API and may be removed in a future release
+line53: 	    @Contended
+line54: 	     ^
+line55: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Basic.java:257: warning: Contended is internal proprietary API and may be removed in a future release
+line56: 	        @Contended("group")
+line57: 	         ^
+line58: 	19 warnings
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/ClassUnloadCommon.java
+编译文件名: ClassUnloadCommon.java
+java编译完成数: 59
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test8007722.java
+编译文件名: Test8007722.java
+java编译完成数: 60
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test7005594.java
+编译文件名: Test7005594.java
+java编译完成数: 61
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6855215.java
+编译文件名: Test6855215.java
+java编译完成数: 62
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/A.java
+编译文件名: A.java
+java编译完成数: 63
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/G1CrashTest.java
+编译文件名: G1CrashTest.java
+java编译完成数: 64
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6850611.java
+编译文件名: Test6850611.java
+java编译完成数: 65
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestAlignmentToUseLargePages.java
+编译文件名: TestAlignmentToUseLargePages.java
+java编译完成数: 66
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/DockerRunOptions.java
+编译文件名: DockerRunOptions.java
+java编译完成数: 67
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestStringObjectInitialization.java
+编译文件名: TestStringObjectInitialization.java
+java编译完成数: 68
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test7190310.java
+编译文件名: Test7190310.java
+java编译完成数: 69
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/IntArithTests.java
+编译文件名: IntArithTests.java
+java编译完成数: 70
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestIntAtomicCAS.java
+编译文件名: TestIntAtomicCAS.java
+java编译完成数: 71
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6956668.java
+编译文件名: Test6956668.java
+java编译完成数: 72
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test7020614.java
+编译文件名: Test7020614.java
+java编译完成数: 73
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test7002666.java
+编译文件名: Test7002666.java
+java编译完成数: 74
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/ExecuteInternalVMTests.java
+编译文件名: ExecuteInternalVMTests.java
+java编译完成数: 75
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/GetUnsafeObjectG1PreBarrier.java
+编译文件名: GetUnsafeObjectG1PreBarrier.java
+java编译完成数: 76
+编译错误输出: 
+line1: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/GetUnsafeObjectG1PreBarrier.java:2: warning: Unsafe is internal proprietary API and may be removed in a future release
+line2: 	import sun.misc.Unsafe;
+line3: 	               ^
+line4: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/GetUnsafeObjectG1PreBarrier.java:6: warning: Unsafe is internal proprietary API and may be removed in a future release
+line5: 	    private static final Unsafe unsafe;
+line6: 	                         ^
+line7: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/GetUnsafeObjectG1PreBarrier.java:12: warning: Unsafe is internal proprietary API and may be removed in a future release
+line8: 	            Field theUnsafe = Unsafe.class.getDeclaredField("theUnsafe");
+line9: 	                              ^
+line10: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/GetUnsafeObjectG1PreBarrier.java:14: warning: Unsafe is internal proprietary API and may be removed in a future release
+line11: 	            unsafe = (Unsafe) theUnsafe.get(null);
+line12: 	                      ^
+line13: 	4 warnings
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestCharShortByteSwap.java
+编译文件名: TestCharShortByteSwap.java
+java编译完成数: 77
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6885584.java
+编译文件名: Test6885584.java
+java编译完成数: 78
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test8009761.java
+编译文件名: Test8009761.java
+java编译完成数: 79
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/LongCmpTests.java
+编译文件名: LongCmpTests.java
+java编译完成数: 80
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6792161.java
+编译文件名: Test6792161.java
+java编译完成数: 81
+编译错误输出: 
+line1: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6792161.java:8: warning: [unchecked] unchecked call to getConstructor(Class<?>...) as a member of the raw type Class
+line2: 	            return cls.getConstructor(args);
+line3: 	                                     ^
+line4: 	  where T is a type-variable:
+line5: 	    T extends Object declared in class Class
+line6: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6792161.java:11: warning: [unchecked] unchecked call to getConstructor(Class<?>...) as a member of the raw type Class
+line7: 	        return cls.getConstructor(new Class[0]);
+line8: 	                                 ^
+line9: 	  where T is a type-variable:
+line10: 	    T extends Object declared in class Class
+line11: 	2 warnings
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestLockEliminatedAtDeopt.java
+编译文件名: TestLockEliminatedAtDeopt.java
+java编译完成数: 82
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test7046096.java
+编译文件名: Test7046096.java
+java编译完成数: 83
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/MontgomeryMultiplyTest.java
+编译文件名: MontgomeryMultiplyTest.java
+java编译完成数: 84
+编译错误输出: 
+line1: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/MontgomeryMultiplyTest.java:131: warning: [unchecked] unchecked call to isAssignableFrom(Class<?>) as a member of the raw type Class
+line2: 	            if (klass.isAssignableFrom(ex.getClass()))
+line3: 	                                      ^
+line4: 	1 warning
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestEscapeThroughInvoke.java
+编译文件名: TestEscapeThroughInvoke.java
+java编译完成数: 85
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6982370.java
+编译文件名: Test6982370.java
+java编译完成数: 86
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestDirtyInt.java
+编译文件名: TestDirtyInt.java
+java编译完成数: 87
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestG1HeapRegionSize.java
+编译文件名: TestG1HeapRegionSize.java
+java编译完成数: 88
+编译错误输出: 
+line1: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestG1HeapRegionSize.java:1: warning: ManagementFactoryHelper is internal proprietary API and may be removed in a future release
+line2: 	import sun.management.ManagementFactoryHelper;
+line3: 	                     ^
+line4: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestG1HeapRegionSize.java:8: warning: ManagementFactoryHelper is internal proprietary API and may be removed in a future release
+line5: 	        HotSpotDiagnosticMXBean diagnostic = ManagementFactoryHelper.getDiagnosticMXBean();
+line6: 	                                             ^
+line7: 	2 warnings
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6852078.java
+编译文件名: Test6852078.java
+java编译完成数: 89
+编译错误输出: 
+line1: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6852078.java:3: warning: ByteBufferWithInfo is internal proprietary API and may be removed in a future release
+line2: 	import com.sun.corba.se.impl.encoding.ByteBufferWithInfo;
+line3: 	                                     ^
+line4: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6852078.java:4: warning: CorbaUtils is internal proprietary API and may be removed in a future release
+line5: 	import com.sun.jndi.toolkit.corba.CorbaUtils;
+line6: 	                                 ^
+line7: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6852078.java:11: warning: ByteBufferWithInfo is internal proprietary API and may be removed in a future release
+line8: 	        ByteBufferWithInfo bbwi = new ByteBufferWithInfo(CorbaUtils.getOrb(null, -1, new Hashtable()), bb);
+line9: 	        ^
+line10: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6852078.java:11: warning: ByteBufferWithInfo is internal proprietary API and may be removed in a future release
+line11: 	        ByteBufferWithInfo bbwi = new ByteBufferWithInfo(CorbaUtils.getOrb(null, -1, new Hashtable()), bb);
+line12: 	                                      ^
+line13: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6852078.java:11: warning: CorbaUtils is internal proprietary API and may be removed in a future release
+line14: 	        ByteBufferWithInfo bbwi = new ByteBufferWithInfo(CorbaUtils.getOrb(null, -1, new Hashtable()), bb);
+line15: 	                                                         ^
+line16: 	5 warnings
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/BMI1.java
+编译文件名: BMI1.java
+java编译完成数: 90
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/StackOverflowBug.java
+编译文件名: StackOverflowBug.java
+java编译完成数: 91
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Bar.java
+编译文件名: Bar.java
+java编译完成数: 92
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/CatchInlineExceptions.java
+编译文件名: CatchInlineExceptions.java
+java编译完成数: 93
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/OopMaps.java
+编译文件名: OopMaps.java
+java编译完成数: 94
+编译错误输出: 
+line1: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/OopMaps.java:15: warning: Unsafe is internal proprietary API and may be removed in a future release
+line2: 	import sun.misc.Unsafe;
+line3: 	               ^
+line4: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/OopMaps.java:16: warning: Contended is internal proprietary API and may be removed in a future release
+line5: 	import sun.misc.Contended;
+line6: 	               ^
+line7: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/OopMaps.java:112: warning: Contended is internal proprietary API and may be removed in a future release
+line8: 	        @Contended
+line9: 	         ^
+line10: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/OopMaps.java:115: warning: Contended is internal proprietary API and may be removed in a future release
+line11: 	        @Contended
+line12: 	         ^
+line13: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/OopMaps.java:118: warning: Contended is internal proprietary API and may be removed in a future release
+line14: 	        @Contended
+line15: 	         ^
+line16: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/OopMaps.java:121: warning: Contended is internal proprietary API and may be removed in a future release
+line17: 	        @Contended
+line18: 	         ^
+line19: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/OopMaps.java:124: warning: Contended is internal proprietary API and may be removed in a future release
+line20: 	        @Contended
+line21: 	         ^
+line22: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/OopMaps.java:138: warning: Contended is internal proprietary API and may be removed in a future release
+line23: 	        @Contended
+line24: 	         ^
+line25: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/OopMaps.java:141: warning: Contended is internal proprietary API and may be removed in a future release
+line26: 	        @Contended
+line27: 	         ^
+line28: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/OopMaps.java:144: warning: Contended is internal proprietary API and may be removed in a future release
+line29: 	        @Contended
+line30: 	         ^
+line31: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/OopMaps.java:147: warning: Contended is internal proprietary API and may be removed in a future release
+line32: 	        @Contended
+line33: 	         ^
+line34: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/OopMaps.java:150: warning: Contended is internal proprietary API and may be removed in a future release
+line35: 	        @Contended
+line36: 	         ^
+line37: 	12 warnings
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestShortDoubleVect.java
+编译文件名: TestShortDoubleVect.java
+java编译完成数: 95
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestSHA.java
+编译文件名: TestSHA.java
+java编译完成数: 96
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/ThreadCpuTimesDeadlock.java
+编译文件名: ThreadCpuTimesDeadlock.java
+java编译完成数: 97
+编译错误输出: 
+line1: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/ThreadCpuTimesDeadlock.java:21: warning: HotspotInternal is internal proprietary API and may be removed in a future release
+line2: 	                server.registerMBean(new sun.management.HotspotInternal(), hotspotInternal);
+line3: 	                                                       ^
+line4: 	1 warning
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/SubExactICondTest.java
+编译文件名: SubExactICondTest.java
+java编译完成数: 98
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestIntUnsafeVolatile.java
+编译文件名: TestIntUnsafeVolatile.java
+java编译完成数: 99
+编译错误输出: 
+line1: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestIntUnsafeVolatile.java:1: warning: Unsafe is internal proprietary API and may be removed in a future release
+line2: 	import sun.misc.Unsafe;
+line3: 	               ^
+line4: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestIntUnsafeVolatile.java:18: warning: Unsafe is internal proprietary API and may be removed in a future release
+line5: 	    private static final Unsafe unsafe;
+line6: 	                         ^
+line7: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestIntUnsafeVolatile.java:27: warning: Unsafe is internal proprietary API and may be removed in a future release
+line8: 	            unsafe = (Unsafe) f.get(c);
+line9: 	                      ^
+line10: 	3 warnings
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/CreatesInterfaceDotEqualsCallInfo.java
+编译文件名: CreatesInterfaceDotEqualsCallInfo.java
+java编译完成数: 100
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestByteFloatVect.java
+编译文件名: TestByteFloatVect.java
+java编译完成数: 101
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test8020215.java
+编译文件名: Test8020215.java
+java编译完成数: 102
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/ArrayNewInstanceOfVoid.java
+编译文件名: ArrayNewInstanceOfVoid.java
+java编译完成数: 103
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test8011771.java
+编译文件名: Test8011771.java
+java编译完成数: 104
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Stemmer.java
+编译文件名: Stemmer.java
+java编译完成数: 105
+编译错误输出: 
+line1: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Stemmer.java:93: error: unreachable statement
+line2: 	        return returnNum;
+line3: 	        ^
+line4: 	1 error
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/UncommonTrapStackBang.java
+编译文件名: UncommonTrapStackBang.java
+java编译完成数: 106
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestFloatVect.java
+编译文件名: TestFloatVect.java
+java编译完成数: 107
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/CompareTest.java
+编译文件名: CompareTest.java
+java编译完成数: 108
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestIntLongVect.java
+编译文件名: TestIntLongVect.java
+java编译完成数: 109
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/ConstFPVectorization.java
+编译文件名: ConstFPVectorization.java
+java编译完成数: 110
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestBootNativeLibraryPath.java
+编译文件名: TestBootNativeLibraryPath.java
+java编译完成数: 111
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/StackOverflowGuardPagesOff.java
+编译文件名: StackOverflowGuardPagesOff.java
+java编译完成数: 112
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/UnsafeAccess.java
+编译文件名: UnsafeAccess.java
+java编译完成数: 113
+编译错误输出: 
+line1: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/UnsafeAccess.java:1: warning: Unsafe is internal proprietary API and may be removed in a future release
+line2: 	import sun.misc.Unsafe;
+line3: 	               ^
+line4: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/UnsafeAccess.java:5: warning: Unsafe is internal proprietary API and may be removed in a future release
+line5: 	    private static final Unsafe U = Unsafe.getUnsafe();
+line6: 	                         ^
+line7: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/UnsafeAccess.java:5: warning: Unsafe is internal proprietary API and may be removed in a future release
+line8: 	    private static final Unsafe U = Unsafe.getUnsafe();
+line9: 	                                    ^
+line10: 	3 warnings
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/DefaultMethodsDependencies.java
+编译文件名: DefaultMethodsDependencies.java
+java编译完成数: 114
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/NullCheckTest.java
+编译文件名: NullCheckTest.java
+java编译完成数: 115
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestShortFloatVect.java
+编译文件名: TestShortFloatVect.java
+java编译完成数: 116
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestJNI.java
+编译文件名: TestJNI.java
+java编译完成数: 117
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestUnsafeLoadControl.java
+编译文件名: TestUnsafeLoadControl.java
+java编译完成数: 118
+编译错误输出: 
+line1: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestUnsafeLoadControl.java:2: warning: Unsafe is internal proprietary API and may be removed in a future release
+line2: 	import sun.misc.Unsafe;
+line3: 	               ^
+line4: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestUnsafeLoadControl.java:6: warning: Unsafe is internal proprietary API and may be removed in a future release
+line5: 	    private static final Unsafe UNSAFE;
+line6: 	                         ^
+line7: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestUnsafeLoadControl.java:10: warning: Unsafe is internal proprietary API and may be removed in a future release
+line8: 	            Field unsafeField = Unsafe.class.getDeclaredField("theUnsafe");
+line9: 	                                ^
+line10: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestUnsafeLoadControl.java:12: warning: Unsafe is internal proprietary API and may be removed in a future release
+line11: 	            UNSAFE = (Unsafe) unsafeField.get(null);
+line12: 	                      ^
+line13: 	4 warnings
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestRemoveEmptyLoop.java
+编译文件名: TestRemoveEmptyLoop.java
+java编译完成数: 119
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestSpeculationFailedHigherEqual.java
+编译文件名: TestSpeculationFailedHigherEqual.java
+java编译完成数: 120
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6797305.java
+编译文件名: Test6797305.java
+java编译完成数: 121
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/PolynomialRoot.java
+编译文件名: PolynomialRoot.java
+java编译完成数: 122
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/GVNTest.java
+编译文件名: GVNTest.java
+java编译完成数: 123
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/LongArithTests.java
+编译文件名: LongArithTests.java
+java编译完成数: 124
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestIntAtomicVolatile.java
+编译文件名: TestIntAtomicVolatile.java
+java编译完成数: 125
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestFloatJNIArgs.java
+编译文件名: TestFloatJNIArgs.java
+java编译完成数: 126
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/CheckLongArgs.java
+编译文件名: CheckLongArgs.java
+java编译完成数: 127
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestRawAliasing.java
+编译文件名: TestRawAliasing.java
+java编译完成数: 128
+编译错误输出: 
+line1: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestRawAliasing.java:8: warning: Unsafe is internal proprietary API and may be removed in a future release
+line2: 	    static private final sun.misc.Unsafe UNSAFE;
+line3: 	                                 ^
+line4: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestRawAliasing.java:12: warning: Unsafe is internal proprietary API and may be removed in a future release
+line5: 	            Field f = sun.misc.Unsafe.class.getDeclaredField("theUnsafe");
+line6: 	                              ^
+line7: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestRawAliasing.java:14: warning: Unsafe is internal proprietary API and may be removed in a future release
+line8: 	            UNSAFE = (sun.misc.Unsafe) f.get(null);
+line9: 	                              ^
+line10: 	3 warnings
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/SumTest.java
+编译文件名: SumTest.java
+java编译完成数: 129
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/BitTests.java
+编译文件名: BitTests.java
+java编译完成数: 130
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test8007294.java
+编译文件名: Test8007294.java
+java编译完成数: 131
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/LoadWithMask.java
+编译文件名: LoadWithMask.java
+java编译完成数: 132
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestByteBoxing.java
+编译文件名: TestByteBoxing.java
+java编译完成数: 133
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Foo.java
+编译文件名: Foo.java
+java编译完成数: 134
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6814842.java
+编译文件名: Test6814842.java
+java编译完成数: 135
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestSpecTrapClassUnloading.java
+编译文件名: TestSpecTrapClassUnloading.java
+java编译完成数: 136
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test7042153.java
+编译文件名: Test7042153.java
+java编译完成数: 137
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6795362.java
+编译文件名: Test6795362.java
+java编译完成数: 138
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/DefaultAndConcreteMethodsCHA.java
+编译文件名: DefaultAndConcreteMethodsCHA.java
+java编译完成数: 139
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestIntFloatVect.java
+编译文件名: TestIntFloatVect.java
+java编译完成数: 140
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6930043.java
+编译文件名: Test6930043.java
+java编译完成数: 141
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test1.java
+编译文件名: Test1.java
+java编译完成数: 142
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6985295.java
+编译文件名: Test6985295.java
+java编译完成数: 143
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test7169782.java
+编译文件名: Test7169782.java
+java编译完成数: 144
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/C1ObjectSpillInLogicOp.java
+编译文件名: C1ObjectSpillInLogicOp.java
+java编译完成数: 145
+编译错误输出: 
+line1: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/C1ObjectSpillInLogicOp.java:6: warning: [unchecked] unchecked conversion
+line2: 	        AtomicReferenceArray<Integer> x = new AtomicReferenceArray(128);
+line3: 	                                          ^
+line4: 	  required: AtomicReferenceArray<Integer>
+line5: 	  found:    AtomicReferenceArray
+line6: 	1 warning
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Expr.java
+编译文件名: Expr.java
+java编译完成数: 146
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/OutputBuffer.java
+编译文件名: OutputBuffer.java
+java编译完成数: 147
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6859338.java
+编译文件名: Test6859338.java
+java编译完成数: 148
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test8004051.java
+编译文件名: Test8004051.java
+java编译完成数: 149
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/CRCTest.java
+编译文件名: CRCTest.java
+java编译完成数: 150
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/LongMulOverflowTest.java
+编译文件名: LongMulOverflowTest.java
+java编译完成数: 151
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6757316.java
+编译文件名: Test6757316.java
+java编译完成数: 152
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/WalkThroughInvoke.java
+编译文件名: WalkThroughInvoke.java
+java编译完成数: 153
+编译错误输出: 
+line1: 	Note: /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/WalkThroughInvoke.java uses or overrides a deprecated API.
+line2: 	Note: Recompile with -Xlint:deprecation for details.
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestSystemGC.java
+编译文件名: TestSystemGC.java
+java编译完成数: 154
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Verifier.java
+编译文件名: Verifier.java
+java编译完成数: 155
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test7090976.java
+编译文件名: Test7090976.java
+java编译完成数: 156
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6909839.java
+编译文件名: Test6909839.java
+java编译完成数: 157
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test7199742.java
+编译文件名: Test7199742.java
+java编译完成数: 158
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestMulAdd.java
+编译文件名: TestMulAdd.java
+java编译完成数: 159
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test7110586.java
+编译文件名: Test7110586.java
+java编译完成数: 160
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestFloatBoxing.java
+编译文件名: TestFloatBoxing.java
+java编译完成数: 161
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestShortBoxing.java
+编译文件名: TestShortBoxing.java
+java编译完成数: 162
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestRangeCheck.java
+编译文件名: TestRangeCheck.java
+java编译完成数: 163
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/PrintInlining.java
+编译文件名: PrintInlining.java
+java编译完成数: 164
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/CompilableTest.java
+编译文件名: CompilableTest.java
+java编译完成数: 165
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test.java
+编译文件名: Test.java
+java编译完成数: 166
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/BuildHelper.java
+编译文件名: BuildHelper.java
+java编译完成数: 167
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestLongVect.java
+编译文件名: TestLongVect.java
+java编译完成数: 168
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test7100757.java
+编译文件名: Test7100757.java
+java编译完成数: 169
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/InlineDefaultMethod1.java
+编译文件名: InlineDefaultMethod1.java
+java编译完成数: 170
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/DoubleArithTests.java
+编译文件名: DoubleArithTests.java
+java编译完成数: 171
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/JMapHProfLargeHeapProc.java
+编译文件名: JMapHProfLargeHeapProc.java
+java编译完成数: 172
+编译错误输出: 
+line1: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/JMapHProfLargeHeapProc.java:7: warning: VMManagement is internal proprietary API and may be removed in a future release
+line2: 	import sun.management.VMManagement;
+line3: 	                     ^
+line4: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/JMapHProfLargeHeapProc.java:29: warning: VMManagement is internal proprietary API and may be removed in a future release
+line5: 	        VMManagement mgmt = (sun.management.VMManagement) jvm.get(runtime);
+line6: 	        ^
+line7: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/JMapHProfLargeHeapProc.java:29: warning: VMManagement is internal proprietary API and may be removed in a future release
+line8: 	        VMManagement mgmt = (sun.management.VMManagement) jvm.get(runtime);
+line9: 	                                           ^
+line10: 	3 warnings
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/LongShiftTests.java
+编译文件名: LongShiftTests.java
+java编译完成数: 173
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6758234.java
+编译文件名: Test6758234.java
+java编译完成数: 174
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestVectorUnalignedOffset.java
+编译文件名: TestVectorUnalignedOffset.java
+java编译完成数: 175
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Loader2.java
+编译文件名: Loader2.java
+java编译完成数: 176
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/WhiteBox.java
+编译文件名: WhiteBox.java
+java编译完成数: 177
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/IntLogicTests.java
+编译文件名: IntLogicTests.java
+java编译完成数: 178
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestShortLongVect.java
+编译文件名: TestShortLongVect.java
+java编译完成数: 179
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestFloatDoubleVect.java
+编译文件名: TestFloatDoubleVect.java
+java编译完成数: 180
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestDeadBackbranchArrayAccess.java
+编译文件名: TestDeadBackbranchArrayAccess.java
+java编译完成数: 181
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/IntCmpTests.java
+编译文件名: IntCmpTests.java
+java编译完成数: 182
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6700047.java
+编译文件名: Test6700047.java
+java编译完成数: 183
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestStackBangRbp.java
+编译文件名: TestStackBangRbp.java
+java编译完成数: 184
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test7024475.java
+编译文件名: Test7024475.java
+java编译完成数: 185
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Container.java
+编译文件名: Container.java
+java编译完成数: 186
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestEliminateAllocationPhi.java
+编译文件名: TestEliminateAllocationPhi.java
+java编译完成数: 187
+编译错误输出: 
+line1: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestEliminateAllocationPhi.java:32: error: unreachable statement
+line2: 	        return j;
+line3: 	        ^
+line4: 	1 error
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/DynamicVMOption.java
+编译文件名: DynamicVMOption.java
+java编译完成数: 188
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestGreyReclaimedHumongousObjects.java
+编译文件名: TestGreyReclaimedHumongousObjects.java
+java编译完成数: 189
+编译错误输出: 
+line1: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestGreyReclaimedHumongousObjects.java:6: warning: ManagementFactoryHelper is internal proprietary API and may be removed in a future release
+line2: 	import sun.management.ManagementFactoryHelper;
+line3: 	                     ^
+line4: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestGreyReclaimedHumongousObjects.java:57: warning: ManagementFactoryHelper is internal proprietary API and may be removed in a future release
+line5: 	        HotSpotDiagnosticMXBean diagnostic = ManagementFactoryHelper.getDiagnosticMXBean();
+line6: 	                                             ^
+line7: 	2 warnings
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestMultiplyToLen.java
+编译文件名: TestMultiplyToLen.java
+java编译完成数: 190
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestStringEqualsBadLength.java
+编译文件名: TestStringEqualsBadLength.java
+java编译完成数: 191
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestShrinkToOneRegion.java
+编译文件名: TestShrinkToOneRegion.java
+java编译完成数: 192
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TypeHierarchy.java
+编译文件名: TypeHierarchy.java
+java编译完成数: 193
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/NestedMathExactTest.java
+编译文件名: NestedMathExactTest.java
+java编译完成数: 194
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6981737.java
+编译文件名: Test6981737.java
+java编译完成数: 195
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestAllocatedEscapesPtrComparison.java
+编译文件名: TestAllocatedEscapesPtrComparison.java
+java编译完成数: 196
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6935022.java
+编译文件名: Test6935022.java
+java编译完成数: 197
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6443505.java
+编译文件名: Test6443505.java
+java编译完成数: 198
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test7009231.java
+编译文件名: Test7009231.java
+java编译完成数: 199
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestRecursiveReplacedException.java
+编译文件名: TestRecursiveReplacedException.java
+java编译完成数: 200
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/DekkerTest.java
+编译文件名: DekkerTest.java
+java编译完成数: 201
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestShortIntVect.java
+编译文件名: TestShortIntVect.java
+java编译完成数: 202
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test5091921.java
+编译文件名: Test5091921.java
+java编译完成数: 203
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/HasNonStatic.java
+编译文件名: HasNonStatic.java
+java编译完成数: 204
+编译错误输出: 
+line1: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/HasNonStatic.java:15: warning: Unsafe is internal proprietary API and may be removed in a future release
+line2: 	import sun.misc.Unsafe;
+line3: 	               ^
+line4: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/HasNonStatic.java:16: warning: Contended is internal proprietary API and may be removed in a future release
+line5: 	import sun.misc.Contended;
+line6: 	               ^
+line7: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/HasNonStatic.java:29: warning: Contended is internal proprietary API and may be removed in a future release
+line8: 	        @Contended
+line9: 	         ^
+line10: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/HasNonStatic.java:33: warning: Contended is internal proprietary API and may be removed in a future release
+line11: 	    @Contended
+line12: 	     ^
+line13: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/HasNonStatic.java:39: warning: Contended is internal proprietary API and may be removed in a future release
+line14: 	    @Contended
+line15: 	     ^
+line16: 	5 warnings
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestMetaspaceInitialization.java
+编译文件名: TestMetaspaceInitialization.java
+java编译完成数: 205
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test7177917.java
+编译文件名: Test7177917.java
+java编译完成数: 206
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/WorkerClass.java
+编译文件名: WorkerClass.java
+java编译完成数: 207
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TypeSpeculation.java
+编译文件名: TypeSpeculation.java
+java编译完成数: 208
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test8011706.java
+编译文件名: Test8011706.java
+java编译完成数: 209
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/FieldMonitor.java
+编译文件名: FieldMonitor.java
+java编译完成数: 210
+编译错误输出: 
+line1: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/FieldMonitor.java:117: warning: [unchecked] unchecked method invocation: method launch in interface LaunchingConnector is applied to given types
+line2: 	            return (VirtualMachine) connector.launch(arguments);
+line3: 	                                                    ^
+line4: 	  required: Map<String,? extends Argument>
+line5: 	  found: Map
+line6: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/FieldMonitor.java:117: warning: [unchecked] unchecked conversion
+line7: 	            return (VirtualMachine) connector.launch(arguments);
+line8: 	                                                     ^
+line9: 	  required: Map<String,? extends Argument>
+line10: 	  found:    Map
+line11: 	2 warnings
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Verify.java
+编译文件名: Verify.java
+java编译完成数: 211
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6880034.java
+编译文件名: Test6880034.java
+java编译完成数: 212
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestCharVect.java
+编译文件名: TestCharVect.java
+java编译完成数: 213
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestLogSum.java
+编译文件名: TestLogSum.java
+java编译完成数: 214
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestUnexpectedProfilingMismatch.java
+编译文件名: TestUnexpectedProfilingMismatch.java
+java编译完成数: 215
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6823354.java
+编译文件名: Test6823354.java
+java编译完成数: 216
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test7125879.java
+编译文件名: Test7125879.java
+java编译完成数: 217
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/ByteClassLoader.java
+编译文件名: ByteClassLoader.java
+java编译完成数: 218
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TraceDeoptimizationNoRealloc.java
+编译文件名: TraceDeoptimizationNoRealloc.java
+java编译完成数: 219
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestArraysFillDeadControl.java
+编译文件名: TestArraysFillDeadControl.java
+java编译完成数: 220
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/InputArguments.java
+编译文件名: InputArguments.java
+java编译完成数: 221
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6732154.java
+编译文件名: Test6732154.java
+java编译完成数: 222
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/DiagnosticCommand.java
+编译文件名: DiagnosticCommand.java
+java编译完成数: 223
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test7082949.java
+编译文件名: Test7082949.java
+java编译完成数: 224
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test7044738.java
+编译文件名: Test7044738.java
+java编译完成数: 225
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6990212.java
+编译文件名: Test6990212.java
+java编译完成数: 226
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6581734.java
+编译文件名: Test6581734.java
+java编译完成数: 227
+编译错误输出: 
+line1: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6581734.java:88: warning: [unchecked] unchecked call to add(E) as a member of the raw type List
+line2: 	                list.add(alloc);
+line3: 	                        ^
+line4: 	  where E is a type-variable:
+line5: 	    E extends Object declared in interface List
+line6: 	1 warning
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/FloatingPointFoldingTest.java
+编译文件名: FloatingPointFoldingTest.java
+java编译完成数: 228
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/NullConstantReceiver.java
+编译文件名: NullConstantReceiver.java
+java编译完成数: 229
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestIntUnsafeCAS.java
+编译文件名: TestIntUnsafeCAS.java
+java编译完成数: 230
+编译错误输出: 
+line1: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestIntUnsafeCAS.java:1: warning: Unsafe is internal proprietary API and may be removed in a future release
+line2: 	import sun.misc.Unsafe;
+line3: 	               ^
+line4: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestIntUnsafeCAS.java:18: warning: Unsafe is internal proprietary API and may be removed in a future release
+line5: 	    private static final Unsafe unsafe;
+line6: 	                         ^
+line7: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestIntUnsafeCAS.java:27: warning: Unsafe is internal proprietary API and may be removed in a future release
+line8: 	            unsafe = (Unsafe) f.get(c);
+line9: 	                      ^
+line10: 	3 warnings
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6795465.java
+编译文件名: Test6795465.java
+java编译完成数: 231
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6932496.java
+编译文件名: Test6932496.java
+java编译完成数: 232
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test8005419.java
+编译文件名: Test8005419.java
+java编译完成数: 233
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestByteDoubleVect.java
+编译文件名: TestByteDoubleVect.java
+java编译完成数: 234
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestFullGCCount.java
+编译文件名: TestFullGCCount.java
+java编译完成数: 235
+编译错误输出: 
+line1: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestFullGCCount.java:24: warning: [unchecked] unchecked conversion
+line2: 	                List<Long> theseCounts = counts.get(collector);
+line3: 	                                                   ^
+line4: 	  required: List<Long>
+line5: 	  found:    List
+line6: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestFullGCCount.java:44: warning: [unchecked] unchecked call to add(E) as a member of the raw type List
+line7: 	            thisList.add(collector.getCollectionCount());
+line8: 	                        ^
+line9: 	  where E is a type-variable:
+line10: 	    E extends Object declared in interface List
+line11: 	2 warnings
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/IVTest.java
+编译文件名: IVTest.java
+java编译完成数: 236
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/StreamPumper.java
+编译文件名: StreamPumper.java
+java编译完成数: 237
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/I.java
+编译文件名: I.java
+java编译完成数: 238
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test7160610.java
+编译文件名: Test7160610.java
+java编译完成数: 239
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6896617.java
+编译文件名: Test6896617.java
+java编译完成数: 240
+编译错误输出: 
+line1: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6896617.java:18: warning: ArrayEncoder is internal proprietary API and may be removed in a future release
+line2: 	        sun.nio.cs.ArrayEncoder arrenc = (sun.nio.cs.ArrayEncoder) enc;
+line3: 	                  ^
+line4: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6896617.java:18: warning: ArrayEncoder is internal proprietary API and may be removed in a future release
+line5: 	        sun.nio.cs.ArrayEncoder arrenc = (sun.nio.cs.ArrayEncoder) enc;
+line6: 	                                                    ^
+line7: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6896617.java:19: warning: ArrayDecoder is internal proprietary API and may be removed in a future release
+line8: 	        sun.nio.cs.ArrayDecoder arrdec = (sun.nio.cs.ArrayDecoder) dec;
+line9: 	                  ^
+line10: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6896617.java:19: warning: ArrayDecoder is internal proprietary API and may be removed in a future release
+line11: 	        sun.nio.cs.ArrayDecoder arrdec = (sun.nio.cs.ArrayDecoder) dec;
+line12: 	                                                    ^
+line13: 	4 warnings
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/bigobj.java
+编译文件名: bigobj.java
+java编译完成数: 241
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestDeoptOOM.java
+编译文件名: TestDeoptOOM.java
+java编译完成数: 242
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestRegionAlignment.java
+编译文件名: TestRegionAlignment.java
+java编译完成数: 243
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Inheritance1.java
+编译文件名: Inheritance1.java
+java编译完成数: 244
+编译错误输出: 
+line1: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Inheritance1.java:15: warning: Unsafe is internal proprietary API and may be removed in a future release
+line2: 	import sun.misc.Unsafe;
+line3: 	               ^
+line4: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Inheritance1.java:16: warning: Contended is internal proprietary API and may be removed in a future release
+line5: 	import sun.misc.Contended;
+line6: 	               ^
+line7: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Inheritance1.java:20: warning: Unsafe is internal proprietary API and may be removed in a future release
+line8: 	    private static final Unsafe U;
+line9: 	                         ^
+line10: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Inheritance1.java:28: warning: Unsafe is internal proprietary API and may be removed in a future release
+line11: 	            Field unsafe = Unsafe.class.getDeclaredField("theUnsafe");
+line12: 	                           ^
+line13: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Inheritance1.java:30: warning: Unsafe is internal proprietary API and may be removed in a future release
+line14: 	            U = (Unsafe) unsafe.get(null);
+line15: 	                 ^
+line16: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Inheritance1.java:166: warning: Contended is internal proprietary API and may be removed in a future release
+line17: 	        @Contended
+line18: 	         ^
+line19: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Inheritance1.java:170: warning: Contended is internal proprietary API and may be removed in a future release
+line20: 	    @Contended
+line21: 	     ^
+line22: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Inheritance1.java:183: warning: Contended is internal proprietary API and may be removed in a future release
+line23: 	        @Contended
+line24: 	         ^
+line25: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Inheritance1.java:187: warning: Contended is internal proprietary API and may be removed in a future release
+line26: 	    @Contended
+line27: 	     ^
+line28: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Inheritance1.java:200: warning: Contended is internal proprietary API and may be removed in a future release
+line29: 	        @Contended
+line30: 	         ^
+line31: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Inheritance1.java:204: warning: Contended is internal proprietary API and may be removed in a future release
+line32: 	    @Contended
+line33: 	     ^
+line34: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Inheritance1.java:217: warning: Contended is internal proprietary API and may be removed in a future release
+line35: 	        @Contended
+line36: 	         ^
+line37: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Inheritance1.java:221: warning: Contended is internal proprietary API and may be removed in a future release
+line38: 	    @Contended
+line39: 	     ^
+line40: 	13 warnings
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestIntUnsafeOrdered.java
+编译文件名: TestIntUnsafeOrdered.java
+java编译完成数: 245
+编译错误输出: 
+line1: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestIntUnsafeOrdered.java:1: warning: Unsafe is internal proprietary API and may be removed in a future release
+line2: 	import sun.misc.Unsafe;
+line3: 	               ^
+line4: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestIntUnsafeOrdered.java:18: warning: Unsafe is internal proprietary API and may be removed in a future release
+line5: 	    private static final Unsafe unsafe;
+line6: 	                         ^
+line7: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestIntUnsafeOrdered.java:27: warning: Unsafe is internal proprietary API and may be removed in a future release
+line8: 	            unsafe = (Unsafe) f.get(c);
+line9: 	                      ^
+line10: 	3 warnings
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6891750.java
+编译文件名: Test6891750.java
+java编译完成数: 246
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/T.java
+编译文件名: T.java
+java编译完成数: 247
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/DisableResizePLAB.java
+编译文件名: DisableResizePLAB.java
+java编译完成数: 248
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/FloatArithTests.java
+编译文件名: FloatArithTests.java
+java编译完成数: 249
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/OpaqueAccesses.java
+编译文件名: OpaqueAccesses.java
+java编译完成数: 250
+编译错误输出: 
+line1: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/OpaqueAccesses.java:4: warning: Unsafe is internal proprietary API and may be removed in a future release
+line2: 	import sun.misc.Unsafe;
+line3: 	               ^
+line4: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/OpaqueAccesses.java:9: warning: Unsafe is internal proprietary API and may be removed in a future release
+line5: 	    private static final Unsafe UNSAFE = Unsafe.getUnsafe();
+line6: 	                         ^
+line7: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/OpaqueAccesses.java:9: warning: Unsafe is internal proprietary API and may be removed in a future release
+line8: 	    private static final Unsafe UNSAFE = Unsafe.getUnsafe();
+line9: 	                                         ^
+line10: 	Note: /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/OpaqueAccesses.java uses or overrides a deprecated API.
+line11: 	Note: Recompile with -Xlint:deprecation for details.
+line12: 	3 warnings
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test5057225.java
+编译文件名: Test5057225.java
+java编译完成数: 251
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestTypePropagationToCmpU.java
+编译文件名: TestTypePropagationToCmpU.java
+java编译完成数: 252
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6800154.java
+编译文件名: Test6800154.java
+java编译完成数: 253
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test2.java
+编译文件名: Test2.java
+java编译完成数: 254
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6196102.java
+编译文件名: Test6196102.java
+java编译完成数: 255
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestCharShortVect.java
+编译文件名: TestCharShortVect.java
+java编译完成数: 256
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/G1AddMetaspaceDependency.java
+编译文件名: G1AddMetaspaceDependency.java
+java编译完成数: 257
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestBooleanVect.java
+编译文件名: TestBooleanVect.java
+java编译完成数: 258
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6879902.java
+编译文件名: Test6879902.java
+java编译完成数: 259
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/UnsafeVolatileGuardTest.java
+编译文件名: UnsafeVolatileGuardTest.java
+java编译完成数: 260
+编译错误输出: 
+line1: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/UnsafeVolatileGuardTest.java:9: warning: Unsafe is internal proprietary API and may be removed in a future release
+line2: 	    static final sun.misc.Unsafe UNSAFE;
+line3: 	                         ^
+line4: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/UnsafeVolatileGuardTest.java:17: warning: Unsafe is internal proprietary API and may be removed in a future release
+line5: 	            Field uf = sun.misc.Unsafe.class.getDeclaredField("theUnsafe");
+line6: 	                               ^
+line7: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/UnsafeVolatileGuardTest.java:19: warning: Unsafe is internal proprietary API and may be removed in a future release
+line8: 	            UNSAFE = (sun.misc.Unsafe) uf.get(null);
+line9: 	                              ^
+line10: 	3 warnings
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/DoOverflow.java
+编译文件名: DoOverflow.java
+java编译完成数: 261
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestUnalignedLoad6769124.java
+编译文件名: TestUnalignedLoad6769124.java
+java编译完成数: 262
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6837011.java
+编译文件名: Test6837011.java
+java编译完成数: 263
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/ConstMethodTest.java
+编译文件名: ConstMethodTest.java
+java编译完成数: 264
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/PerfCounter.java
+编译文件名: PerfCounter.java
+java编译完成数: 265
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/NotPredicate.java
+编译文件名: NotPredicate.java
+java编译完成数: 266
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/DcmdUtil.java
+编译文件名: DcmdUtil.java
+java编译完成数: 267
+编译错误输出: 
+line1: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/DcmdUtil.java:1: warning: ManagementFactoryHelper is internal proprietary API and may be removed in a future release
+line2: 	import sun.management.ManagementFactoryHelper;
+line3: 	                     ^
+line4: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/DcmdUtil.java:7: warning: ManagementFactoryHelper is internal proprietary API and may be removed in a future release
+line5: 	        DiagnosticCommandMBean dcmd = ManagementFactoryHelper.getDiagnosticCommandMBean();
+line6: 	                                      ^
+line7: 	2 warnings
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6796786.java
+编译文件名: Test6796786.java
+java编译完成数: 268
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test7052494.java
+编译文件名: Test7052494.java
+java编译完成数: 269
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test7123108.java
+编译文件名: Test7123108.java
+java编译完成数: 270
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6931567.java
+编译文件名: Test6931567.java
+java编译完成数: 271
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test7068051.java
+编译文件名: Test7068051.java
+java编译完成数: 272
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/InlineDefaultMethod.java
+编译文件名: InlineDefaultMethod.java
+java编译完成数: 273
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test8002069.java
+编译文件名: Test8002069.java
+java编译完成数: 274
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/LongReferenceCastingTest.java
+编译文件名: LongReferenceCastingTest.java
+java编译完成数: 275
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/C1NullCheckOfNullStore.java
+编译文件名: C1NullCheckOfNullStore.java
+java编译完成数: 276
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/AndPredicate.java
+编译文件名: AndPredicate.java
+java编译完成数: 277
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestDoubleBoxing.java
+编译文件名: TestDoubleBoxing.java
+java编译完成数: 278
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/UnsafeGetAddressTest.java
+编译文件名: UnsafeGetAddressTest.java
+java编译完成数: 279
+编译错误输出: 
+line1: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/UnsafeGetAddressTest.java:1: warning: Unsafe is internal proprietary API and may be removed in a future release
+line2: 	import sun.misc.Unsafe;
+line3: 	               ^
+line4: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/UnsafeGetAddressTest.java:6: warning: Unsafe is internal proprietary API and may be removed in a future release
+line5: 	    private static Unsafe unsafe;
+line6: 	                   ^
+line7: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/UnsafeGetAddressTest.java:12: warning: Unsafe is internal proprietary API and may be removed in a future release
+line8: 	        unsafe = (Unsafe) f.get(c);
+line9: 	                  ^
+line10: 	3 warnings
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/LoadWithMask2.java
+编译文件名: LoadWithMask2.java
+java编译完成数: 280
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6905845.java
+编译文件名: Test6905845.java
+java编译完成数: 281
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test7047069.java
+编译文件名: Test7047069.java
+java编译完成数: 282
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/AttachWithStalePidFileTarget.java
+编译文件名: AttachWithStalePidFileTarget.java
+java编译完成数: 283
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestIntBoxing.java
+编译文件名: TestIntBoxing.java
+java编译完成数: 284
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestMemBarAcquire.java
+编译文件名: TestMemBarAcquire.java
+java编译完成数: 285
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test7088020.java
+编译文件名: Test7088020.java
+java编译完成数: 286
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test7041100.java
+编译文件名: Test7041100.java
+java编译完成数: 287
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestDoubleVect.java
+编译文件名: TestDoubleVect.java
+java编译完成数: 288
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestByteShortVect.java
+编译文件名: TestByteShortVect.java
+java编译完成数: 289
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test7190310_unsafe.java
+编译文件名: Test7190310_unsafe.java
+java编译完成数: 290
+编译错误输出: 
+line1: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test7190310_unsafe.java:3: warning: Unsafe is internal proprietary API and may be removed in a future release
+line2: 	import sun.misc.Unsafe;
+line3: 	               ^
+line4: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test7190310_unsafe.java:16: warning: [unchecked] unchecked call to WeakReference(T) as a member of the raw type WeakReference
+line5: 	    private static final WeakReference ref = new WeakReference(str);
+line6: 	                                             ^
+line7: 	  where T is a type-variable:
+line8: 	    T extends Object declared in class WeakReference
+line9: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test7190310_unsafe.java:24: warning: Unsafe is internal proprietary API and may be removed in a future release
+line10: 	        Unsafe unsafe = (Unsafe) f.get(c);
+line11: 	        ^
+line12: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test7190310_unsafe.java:24: warning: Unsafe is internal proprietary API and may be removed in a future release
+line13: 	        Unsafe unsafe = (Unsafe) f.get(c);
+line14: 	                         ^
+line15: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test7190310_unsafe.java:64: warning: Unsafe is internal proprietary API and may be removed in a future release
+line16: 	    static boolean verifyGet(long referent_offset, Unsafe unsafe) throws Exception {
+line17: 	                                                   ^
+line18: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test7190310_unsafe.java:93: warning: Unsafe is internal proprietary API and may be removed in a future release
+line19: 	    static Object getRef1(Unsafe unsafe, WeakReference ref, long referent_offset) throws Exception {
+line20: 	                          ^
+line21: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test7190310_unsafe.java:97: warning: Unsafe is internal proprietary API and may be removed in a future release
+line22: 	    static Object getRef2(Unsafe unsafe, Reference ref, long referent_offset) throws Exception {
+line23: 	                          ^
+line24: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test7190310_unsafe.java:101: warning: Unsafe is internal proprietary API and may be removed in a future release
+line25: 	    static Object getRef3(Unsafe unsafe, Object ref, long referent_offset) throws Exception {
+line26: 	                          ^
+line27: 	/home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test7190310_unsafe.java:105: warning: Unsafe is internal proprietary API and may be removed in a future release
+line28: 	    static Object getRef4(Unsafe unsafe, Test7190310_unsafe ref, long referent_offset) throws Exception {
+line29: 	                          ^
+line30: 	9 warnings
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test7179138_1.java
+编译文件名: Test7179138_1.java
+java编译完成数: 291
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/IntShiftTests.java
+编译文件名: IntShiftTests.java
+java编译完成数: 292
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/FloatCmpTests.java
+编译文件名: FloatCmpTests.java
+java编译完成数: 293
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/DoubleCmpTests.java
+编译文件名: DoubleCmpTests.java
+java编译完成数: 294
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6897150.java
+编译文件名: Test6897150.java
+java编译完成数: 295
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6357214.java
+编译文件名: Test6357214.java
+java编译完成数: 296
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6916644.java
+编译文件名: Test6916644.java
+java编译完成数: 297
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/LongLogicTests.java
+编译文件名: LongLogicTests.java
+java编译完成数: 298
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/javac_main_files.txt
+编译文件名: javac_main_files.txt
+java编译完成数: 299
+编译错误输出: 
+line1: 	javac: invalid flag: /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/javac_main_files.txt
+line2: 	Usage: javac <options> <source files>
+line3: 	use -help for a list of possible options
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/GeneratedClassLoader.java
+编译文件名: GeneratedClassLoader.java
+java编译完成数: 300
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test7116786.java
+编译文件名: Test7116786.java
+java编译完成数: 301
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestByteVect.java
+编译文件名: TestByteVect.java
+java编译完成数: 302
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestMethodHandleInvokesIntrinsic.java
+编译文件名: TestMethodHandleInvokesIntrinsic.java
+java编译完成数: 303
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/SpreadNullArg.java
+编译文件名: SpreadNullArg.java
+java编译完成数: 304
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestFalseDeadLock.java
+编译文件名: TestFalseDeadLock.java
+java编译完成数: 305
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/TestArrayCopy6769124.java
+编译文件名: TestArrayCopy6769124.java
+java编译完成数: 306
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/CountedLoopProblem.java
+编译文件名: CountedLoopProblem.java
+java编译完成数: 307
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/B.java
+编译文件名: B.java
+java编译完成数: 308
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/ByteCodeLoader.java
+编译文件名: ByteCodeLoader.java
+java编译完成数: 309
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/OrPredicate.java
+编译文件名: OrPredicate.java
+java编译完成数: 310
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/AddExactICondTest.java
+编译文件名: AddExactICondTest.java
+java编译完成数: 311
+编译错误输出: 
+
+当前的编译指令: /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/bin/javac -Xlint:unchecked -encoding utf-8 -cp /root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/jre/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib:/root/jdk/jdk_version/Zulujdk8.0.322-linux_x64/lib/tools.jar -d ./Testcode_outClass/jdk8u_Zulu /home/Graduation_Project_Code/javac_jvm_programs_testSuites_unique/jdk8u/Test6378821.java
+编译文件名: Test6378821.java
+java编译完成数: 312
+编译错误输出: 
+
