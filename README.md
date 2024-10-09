@@ -1,2 +1,0 @@
-# Differential_Fuzzing_Testing_Code_OnLinux
-对主流JVM进行差分模糊测试的测试框架，主要使用Java完成
