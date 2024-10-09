@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="ext">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jre/lib/ext/jaccess.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jre/lib/ext/localedata.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jre/lib/ext/nashorn.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jre/lib/ext/cldrdata.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jre/lib/ext/dnsns.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jre/lib/ext/sunpkcs11.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jre/lib/ext/sunec.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jre/lib/ext/zipfs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jre/lib/ext/sunjce_provider.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
